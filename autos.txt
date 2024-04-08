@@ -1,0 +1,3 @@
+Make, Model, Color, Year, Mileage
+Ford,Model T,Black,1920,30000
+Chevrolet,Corvette,Blue,1962,40000
